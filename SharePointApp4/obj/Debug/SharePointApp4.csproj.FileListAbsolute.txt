@@ -1,0 +1,3 @@
+D:\JCI\EReceivers\SharePointApp4\SharePointApp4\bin\Debug\SharePointApp4.pdb
+D:\JCI\EReceivers\SharePointApp4\SharePointApp4\obj\Debug\SharePointApp4.dll
+D:\JCI\EReceivers\SharePointApp4\SharePointApp4\obj\Debug\SharePointApp4.pdb
