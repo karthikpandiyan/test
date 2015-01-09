@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointApp4", "SharePointApp4\SharePointApp4.csproj", "{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointApp4Web", "SharePointApp4Web\SharePointApp4Web.csproj", "{EA7E3554-E923-455F-B9C2-7F687DEE97C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FD8160-F056-45EB-B048-EF9D2DEB4DF9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EA7E3554-E923-455F-B9C2-7F687DEE97C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7E3554-E923-455F-B9C2-7F687DEE97C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7E3554-E923-455F-B9C2-7F687DEE97C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7E3554-E923-455F-B9C2-7F687DEE97C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
