@@ -52,6 +52,9 @@
     <Reference Include="Microsoft.SharePoint.Client.Runtime, Version=16.0.0.0">
       <Private>True</Private>
     </Reference>
+    <Reference Include="Oracle.DataAccess">
+      <HintPath>..\..\..\14-10\SourceCode\SourceCode\JCI.SPRate.MTB.Web\bin\Oracle.DataAccess.dll</HintPath>
+    </Reference>
     <Reference Include="System.IdentityModel" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />

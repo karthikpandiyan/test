@@ -8,3 +8,5 @@ D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\bin\en\Microsoft.IdentityMode
 D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\obj\Debug\SharePointApp4Web.csprojResolveAssemblyReference.cache
 D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\obj\Debug\SharePointApp4Web.dll
 D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\obj\Debug\SharePointApp4Web.pdb
+D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\bin\Microsoft.IdentityModel.dll
+D:\JCI\EReceivers\SharePointApp4\SharePointApp4Web\bin\Oracle.DataAccess.dll
